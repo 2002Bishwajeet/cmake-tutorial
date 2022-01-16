@@ -1,6 +1,21 @@
 # Hello CMake
 
-In this first lesson we are gonna build a simple Hellow World program using CMake.
+In this first lesson we are gonna build a simple Hello World program using CMake.
+
+## Introduction
+
+Files in the tutorial include
+
+```bash
+Hello-Cmake$ tree
+.
+├── CMakeLists.txt
+├── hello.cpp
+```
+
+[CMakeLists.txt](Hello-Cmake/CMakeLists.txt) - Contains the CMake commands you wish to run.
+
+[hello.cpp](Hello-Cmake/hello.cpp) - A source file to compile.
 
 ## Concepts
 
